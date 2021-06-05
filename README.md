@@ -19,6 +19,11 @@ quasar dev
 npm run lint
 ```
 
+### Test the project
+```bash
+npm run test
+```
+
 ### Build the app for production
 ```bash
 quasar build
